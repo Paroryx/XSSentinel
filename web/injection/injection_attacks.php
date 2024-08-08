@@ -3,6 +3,7 @@
 require 'config.php';
 ?>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <style>
 table, th, td {
   border:1px solid black;
