@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
+<head>
+<title>Injection Attacks</title>
+</head>
 <body>
- 
 <?php
 $text = "World";
 echo "My first PHP script!";
